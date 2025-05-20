@@ -2,7 +2,8 @@
 
 ## About Me
 
-I am a Software Engineer, passionate about Front-End and building applications that solve real world problems.
+I am a Software Engineer, passionate about Front-End development with a keen interest in building intuitive and dynamic web applications.
+My journey in tech is driven by curiosity and a desire to solve real-world problems through code.
 
 ## What I'm Up To
 
@@ -31,6 +32,8 @@ I am a Software Engineer, passionate about Front-End and building applications t
 **Tools:**  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Connect with Me
 
